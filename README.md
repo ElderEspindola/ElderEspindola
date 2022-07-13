@@ -1,16 +1,25 @@
-### Hi there 👋
+## Olá, eu sou o Elder Espíndola Soares
 
-<!--
-**ElderEspindola/ElderEspindola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalho atualmente como Analista de Sistemas
+- 🌱 Estou estudando React Native + Firebase
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: eu nem gostava de computador até 2012, que mudança 😵‍💫
 
-Here are some ideas to get you started:
+<div>
+    <a href="https://github.com/elderespindola">
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api?username=elderespindola&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderespindola&layout=compact&langs_count=168&theme=radical" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+    <img height="60" width="70" 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="60" width="70" 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="60" width="70" 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+
+
