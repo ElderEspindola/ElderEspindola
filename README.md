@@ -1,9 +1,9 @@
 ## Olá, eu sou o Elder Espíndola Soares
 
-- 🔭 Trabalho atualmente como Analista de Sistemas
-- 🌱 Estou estudando React Native + Firebase
+- 🔭 Programador há 10 anos. Formação: Engenheiaria de Software
+- 🌱 Especialista em Cybersecurity
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: eu nem gostava de computador até 2012, que mudança 😵‍💫
+- ⚡ Fun fact: eu nem gostava de tecnologia até 2014, que mudança 😵‍💫
 
 <div>
     <a href="https://github.com/elderespindola">
