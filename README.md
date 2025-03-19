@@ -1,6 +1,6 @@
 ## Olá, eu sou o Elder Espíndola Soares
 
-- 🔭 Programador há 10 anos. Formação: Engenheiaria de Software
+- 🔭 Programador há 10 anos. Formação: Engenharia de Software
 - 🌱 Especialista em Cybersecurity
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: eu nem gostava de tecnologia até 2014, que mudança 😵‍💫
